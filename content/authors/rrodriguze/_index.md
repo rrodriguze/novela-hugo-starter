@@ -1,8 +1,9 @@
 ---
-title: Roberto Rodríguez
-bio: |
-    La voz de la inexperiencia. Desarrollador Android bastante novato y con muchas cosas por aprender. Poco a poco espero ir descubriendo todos los secretos de este framework y contando mis avances 🤓
-avatar: "images/t036vu8fv-ug4ntavt9-0f3621a97423-512.png"
+title: Roberto Rodriguez
+bio: "La voz de la inexperiencia. Desarrollador Android bastante novato y con muchas
+  cosas por aprender. Poco a poco espero ir descubriendo todos los secretos de este
+  framework y contando mis avances \U0001F913\n"
+avatar: images/t036vu8fv-ug4ntavt9-0f3621a97423-512.png
 featured: true
 social:
 - title: instagram
@@ -13,5 +14,5 @@ social:
   url: https://github.com/rrodriguze
 - title: twitter
   url: https://twitter.com/roberto96rr
-  
+
 ---

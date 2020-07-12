@@ -43,6 +43,3 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
-pages:
-- content/authors/roberto.md
-- content/authors/rrodriguze/roberto.md
