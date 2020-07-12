@@ -11,8 +11,6 @@ social:
       url: https://www.linkedin.com/in/rrodriguze
     - title: github
       url: https://github.com/rrodriguze
-    - title: dev.to
-      url: https://dev.to/rrodriguze
     - title: instagram
       url: https://www.instagram.com/rober_r96
     - title: twitter
