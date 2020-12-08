@@ -12,5 +12,6 @@ social:
   url: https://twitter.com/roberto96rr
 - title: linkedin
   url: https://www.linkedin.com/in/rrodriguze
-
+- title: instagram
+  url: https://www.instagram.com/rober_r96/
 ---
