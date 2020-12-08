@@ -6,13 +6,11 @@ bio: "Desarrollador Android bastante novato y con muchas cosas por aprender. Poc
 avatar: "/images/favicon.svg"
 featured: true
 social:
-- title: instagram
-  url: https://www.instagram.com/rober_r96
-- title: linkedin
-  url: https://www.linkedin.com/in/rrodriguze
 - title: github
   url: https://github.com/rrodriguze
 - title: twitter
   url: https://twitter.com/roberto96rr
+- title: linkedin
+  url: https://www.linkedin.com/in/rrodriguze
 
 ---
